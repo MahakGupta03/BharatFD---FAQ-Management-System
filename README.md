@@ -8,8 +8,7 @@ This is a Django-based FAQ Management System that allows users to manage frequen
 
 1. **Clone the repository:**
     ```sh
-    git clone <repository-url>
-    cd faq-management
+    git clone https://github.com/MahakGupta03/BharatFD---FAQ-Management-System.git
     ```
 
 2. **Create a virtual environment:**
